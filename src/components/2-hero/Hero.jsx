@@ -12,7 +12,7 @@ export default function Hero() {
       <div className="left-section ">
         <div className="parent-avater flex">
           <img
-            src="public/portofolio.png"
+            src="portofolio.png"
             className="avater"
             alt=""
           />
