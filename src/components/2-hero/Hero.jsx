@@ -2,6 +2,8 @@ import React, { useRef } from "react";
 import "./Hero.css";
 import devanimation from "./../../../public/animation/Animation - 1734114263963.json";
 import Lottie from "lottie-react";
+// import myphoto from "/src/assets/portofolio-me-modified.png";
+
 export default function Hero() {
   const lottiref = useRef();
 
@@ -10,7 +12,7 @@ export default function Hero() {
       <div className="left-section ">
         <div className="parent-avater flex">
           <img
-            src="/portofolio-me-modified (1).png"
+            src="public/portofolio.png"
             className="avater"
             alt=""
           />

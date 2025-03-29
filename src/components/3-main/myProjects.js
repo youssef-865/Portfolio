@@ -5,7 +5,7 @@ export const myProjects = [
         projects: [
             {
                 name: "ShopShow",
-                imgPath: "/portofolio/shop-show.PNG",
+                imgPath: "src/assets/portofolio/shop-show.PNG",
                 description: "A dynamic online shopping platform where users can browse and purchase products across various categories and brands. Features include product filtering, cart functionality, secure Visa payment, and order tracking.",
                 codeLink: "https://github.com/youssef-865/shop-show.git",
                 liveDemo: "https://youssef-865.github.io/shop-show/"
@@ -18,7 +18,7 @@ export const myProjects = [
         projects: [
             {
                 name: "Develo",
-                imgPath: "/portofolio/devel.png",
+                imgPath: "src/assets/portofolio/devel.png",
                 description: "Devlop Bootstrap is a responsive web project built using HTML, CSS, and Bootstrap. It follows modern UI design principles and provides a sleek, mobile-friendly interface. The project demonstrates effective use of Bootstrap components, including navigation bars, cards, grids, and responsive layouts.",
                 codeLink: "https://github.com/youssef-865/Devlop-bootstrab.git",
                 liveDemo: "https://youssef-865.github.io/Devlop-bootstrab/",
@@ -31,7 +31,7 @@ export const myProjects = [
         projects: [
             {
                 name: "Yummy",
-                imgPath: "/portofolio/Yummah.png",
+                imgPath: "src/assets/portofolio/Yummah.png",
                 description: "A global culinary platform showcasing dishes from different countries with detailed preparation methods. Features include step-by-step guides, recipe filtering, and interactive food galleries.",
                 codeLink: "https://github.com/youssef-865/yummy-quiz.git",
                 liveDemo: "https://youssef-865.github.io/yummy-quiz/"
@@ -39,7 +39,7 @@ export const myProjects = [
 
             {
                 name: "Weather App",
-                imgPath: "/portofolio/weather.png",
+                imgPath: "src/assets/portofolio/weather.png",
                 description: "Displays weather information for a given location, including temperature, humidity, wind speed, and a brief description of the weather.",
                 codeLink: "https://github.com/youssef-865/weather2.git",
                 liveDemo: "https://youssef-865.github.io/weather2/"
@@ -47,7 +47,7 @@ export const myProjects = [
 
             {
                 name: "Customer Transactions",
-                imgPath: "/portofolio/customer.png",
+                imgPath: "src/assets/portofolio/customer.png",
                 description: "Allows viewing or adding customer transaction details, including name, ID, and transaction history.",
                 codeLink: "https://github.com/youssef-865/Customer-Transactions.git",
                 liveDemo: "https://youssef-865.github.io/Customer-Transactions/"
@@ -55,14 +55,14 @@ export const myProjects = [
 
             {
                 name: "Website Bookmark Manager",
-                imgPath: "/portofolio/bookmaker.png",
+                imgPath: "src/assets/portofolio/bookmaker.png",
                 description: "A simple and efficient bookmark manager that allows users to save, organize, and delete website links effortlessly. Designed for better productivity and quick access to favorite websites.",
                 codeLink: "https://github.com/youssef-865/Book-marker",
                 liveDemo: "https://youssef-865.github.io/Book-marker/"
             },
             {
                 name: "To-Do List",
-                imgPath: "/portofolio/to-do-list.png" ,
+                imgPath: "src/assets/portofolio/to-do-list.png" ,
                 description: "A task management app with features like adding, editing, and deleting tasks for better productivity.",
                 codeLink: "https://github.com/youssef-865/-To-Do-List.git",
                 liveDemo: "https://youssef-865.github.io/-To-Do-List/"
